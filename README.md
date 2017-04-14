@@ -1,2 +1,6 @@
-# hello-world
-簡単な説明
+＃hello-world
+
+i have a pen
+i have a apple
+ahnn
+applepen
